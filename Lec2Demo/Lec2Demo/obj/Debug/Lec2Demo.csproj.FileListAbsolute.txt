@@ -1,0 +1,8 @@
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\bin\Debug\Lec2Demo.exe.config
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\bin\Debug\Lec2Demo.exe
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\bin\Debug\Lec2Demo.pdb
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.csproj.AssemblyReference.cache
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.csproj.SuggestedBindingRedirects.cache
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.csproj.CoreCompileInputs.cache
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.exe
+C:\Users\300370930\Desktop\Intro-1175\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.pdb
