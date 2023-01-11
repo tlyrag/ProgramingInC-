@@ -6,11 +6,3 @@ C:\Users\kandhadaip\Dropbox\Priya\DC\Winter2023\W_1175_3\Demos\Lec2Demo\Lec2Demo
 C:\Users\kandhadaip\Dropbox\Priya\DC\Winter2023\W_1175_3\Demos\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.csproj.CoreCompileInputs.cache
 C:\Users\kandhadaip\Dropbox\Priya\DC\Winter2023\W_1175_3\Demos\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.exe
 C:\Users\kandhadaip\Dropbox\Priya\DC\Winter2023\W_1175_3\Demos\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.pdb
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\bin\Debug\Lec2Demo.exe.config
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\bin\Debug\Lec2Demo.exe
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\bin\Debug\Lec2Demo.pdb
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.csproj.AssemblyReference.cache
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.csproj.SuggestedBindingRedirects.cache
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.csproj.CoreCompileInputs.cache
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.exe
-D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Lec2Demo\Lec2Demo\obj\Debug\Lec2Demo.pdb
