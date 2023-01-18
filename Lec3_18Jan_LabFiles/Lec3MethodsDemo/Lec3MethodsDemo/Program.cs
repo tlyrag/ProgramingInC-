@@ -19,7 +19,7 @@ namespace Lec3MethodsDemo
             //WriteLine(helloMsg); //will not work because helloMsg declared inside the method
 
             WriteLine("Lecture 3, Method demo 2: void return type, two string inputs");
-            SayHelloWithInputs("Hello", "Amanda");
+            SayHelloWithInputs("Hello", "Amanda"); // Input arguments
             string anyMsg = "Welcome";
             string name = "Edward";
             SayHelloWithInputs(anyMsg, name);

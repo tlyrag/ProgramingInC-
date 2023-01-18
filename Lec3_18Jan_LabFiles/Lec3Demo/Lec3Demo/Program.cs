@@ -72,11 +72,6 @@ namespace Lec3Demo
             // * - multiplication
             // / - division
             // % modulus opreator ex: 23%5 =3
-            // 
-            */
-            //// ---------------------DEMO 4----------------------------
-             WriteLine("Lec3, Demo 4: Methods");
-
         }
 
     }
