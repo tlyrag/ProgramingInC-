@@ -33,6 +33,7 @@ namespace Lec3Demo
             // N - number with digit separators
             // F - floating point notation
             // C - Currency
+            // 
             WriteLine(asterikLine);
             WriteLine("*{0, 20:F2}: {1, -26}*", "Grade 1", grade1);
             WriteLine("*{0, 20}: {1, -26}*", "Grade 2", grade2);
@@ -43,7 +44,18 @@ namespace Lec3Demo
             WriteLine("Lec3, Demo 2: Postfix increment operator");
             Write("Enter your age: ");
             int age1 = int.Parse(ReadLine());
-            WriteLine(age1);
+            // formatted output with age1
+
+            // Postfix
+            WriteLine("The value of age after with postfix increment is {0}", age1++);
+            WriteLine("The value of age after postfix increment is " + age1);
+            // Prefix
+            Write("Enter your age: ");
+            int age2 = int.Parse(ReadLine());
+            // formatted output with age1
+            WriteLine("The value of age after with prefix increment is {0}", ++age2);
+            WriteLine("The value of age after prefix increment is " + ++age2);
         }
+
     }
 }
