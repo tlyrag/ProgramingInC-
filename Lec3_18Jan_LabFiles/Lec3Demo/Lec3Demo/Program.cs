@@ -11,6 +11,7 @@ namespace Lec3Demo
     {
         static void Main(string[] args)
         {
+            // ---------------------DEMO 1----------------------------
             /*
             WriteLine("Lec3, Demo 1: Getting numeric grades and find average grade");
 
@@ -41,6 +42,8 @@ namespace Lec3Demo
             WriteLine("*{0, 20}: {1, -26:N3}*", "Avg Grade", avg);
             WriteLine(asterikLine);
         */
+            // ---------------------DEMO 2----------------------------
+            /*
             WriteLine("Lec3, Demo 2: Postfix increment operator");
             Write("Enter your age: ");
             int age1 = int.Parse(ReadLine());
@@ -55,6 +58,25 @@ namespace Lec3Demo
             // formatted output with age1
             WriteLine("The value of age after with prefix increment is {0}", ++age2);
             WriteLine("The value of age after prefix increment is " + ++age2);
+            */
+            //// ---------------------DEMO 3----------------------------
+            /*
+            WriteLine("Lec3, Demo 3: conjunctive concatenation");
+            string msg = "Hello, ";
+ 
+            msg += "how are you? ";
+            msg += "Another msg added here ";
+            msg += 5.5;
+            WriteLine("Message after all the conjuctive concatenation is {0} ", msg);
+
+            // * - multiplication
+            // / - division
+            // % modulus opreator ex: 23%5 =3
+            // 
+            */
+            //// ---------------------DEMO 4----------------------------
+             WriteLine("Lec3, Demo 4: Methods");
+
         }
 
     }
