@@ -11,30 +11,40 @@ namespace Lec3MethodsDemo
     {
         static void Main(string[] args)
         {
+            //namespace{
+            //  program class {
+                    //main method {
+                    //}
+                    //method 1 {
+                    //}
+                    //method 2 {
+                    //}
+            //  }
+            //}
             Console.WriteLine("Hello World!");
             WriteLine("Lecture 3, Method demo 1: void return type, no input method");
-            SayHello();
+            SayHello(); //method call
             SayHello();
             SayHello();
             //WriteLine(helloMsg); //will not work because helloMsg declared inside the method
 
             WriteLine("Lecture 3, Method demo 2: void return type, two string inputs");
-            SayHelloWithInputs("Hello", "Amanda"); // Input arguments
+            SayHelloWithInputs("Hello", "Amanda"); //input arguments - "Hello", "Amanda"
             string anyMsg = "Welcome";
             string name = "Edward";
             SayHelloWithInputs(anyMsg, name);
             WriteLine(name);
 
-            WriteLine("Lecture 3, Method demo 3: Value-returning, no input method");
-            string customerName = GetNameFromUser();
-            SayHelloWithInputs("Have a good day", customerName);
+            //WriteLine("Lecture 3, Method demo 3: Value-returning, no input method");
+            //string customerName = GetNameFromUser();
+            //SayHelloWithInputs("Have a good day", customerName);
 
-            SayHelloWithInputs("Hi ", customerName + "! Welcome to the high grade calculator");
-            GetTwoGrades(customerName, out double gradeOne, out double gradeTwo);
+            //SayHelloWithInputs("Hi ", customerName + "! Welcome to the high grade calculator");
+            //GetTwoGrades(customerName, out double gradeOne, out double gradeTwo);
 
-            double maxGrade = GetMax(gradeOne, gradeTwo);
+            //double maxGrade = GetMax(gradeOne, gradeTwo);
 
-            DisplayBanner(customerName, gradeOne, gradeTwo, maxGrade);
+            //DisplayBanner(customerName, gradeOne, gradeTwo, maxGrade);
 
         }
 
@@ -46,6 +56,8 @@ namespace Lec3MethodsDemo
         static void SayHelloWithInputs(string msg,
                                         string userName)
         {
+            //string helloMsg = "testing";
+            //WriteLine(helloMsg);
             WriteLine(msg + ", " + userName);
         }
 

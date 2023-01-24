@@ -1,0 +1,8 @@
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\bin\Debug\CarpetProblem.exe.config
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\bin\Debug\CarpetProblem.exe
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\bin\Debug\CarpetProblem.pdb
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\obj\Debug\CarpetProblem.csproj.AssemblyReference.cache
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\obj\Debug\CarpetProblem.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\obj\Debug\CarpetProblem.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\obj\Debug\CarpetProblem.exe
+D:\Douglas\Intro to Programing - CSIS 1175\CarpetProblem\CarpetProblem\obj\Debug\CarpetProblem.pdb
