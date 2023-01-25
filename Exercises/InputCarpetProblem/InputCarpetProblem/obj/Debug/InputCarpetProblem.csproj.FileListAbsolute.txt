@@ -1,0 +1,8 @@
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\obj\Debug\InputCarpetProblem.csproj.AssemblyReference.cache
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\obj\Debug\InputCarpetProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\obj\Debug\InputCarpetProblem.csproj.CoreCompileInputs.cache
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\bin\Debug\InputCarpetProblem.exe.config
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\bin\Debug\InputCarpetProblem.exe
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\bin\Debug\InputCarpetProblem.pdb
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\obj\Debug\InputCarpetProblem.exe
+C:\Users\300370930\Desktop\Intro\Intro1775\Exercises\InputCarpetProblem\InputCarpetProblem\obj\Debug\InputCarpetProblem.pdb
