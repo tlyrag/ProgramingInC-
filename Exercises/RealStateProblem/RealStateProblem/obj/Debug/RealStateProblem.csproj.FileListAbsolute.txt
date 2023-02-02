@@ -1,0 +1,8 @@
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\bin\Debug\RealStateProblem.exe.config
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\bin\Debug\RealStateProblem.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\bin\Debug\RealStateProblem.pdb
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\obj\Debug\RealStateProblem.csproj.AssemblyReference.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\obj\Debug\RealStateProblem.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\obj\Debug\RealStateProblem.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\obj\Debug\RealStateProblem.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\RealStateProblem\RealStateProblem\obj\Debug\RealStateProblem.pdb

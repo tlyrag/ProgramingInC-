@@ -1,0 +1,8 @@
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\bin\Debug\StudentCourserProject2.exe.config
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\bin\Debug\StudentCourserProject2.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\bin\Debug\StudentCourserProject2.pdb
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\obj\Debug\StudentCourserProject2.csproj.AssemblyReference.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\obj\Debug\StudentCourserProject2.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\obj\Debug\StudentCourserProject2.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\obj\Debug\StudentCourserProject2.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\StudentCourserProject2\StudentCourserProject2\obj\Debug\StudentCourserProject2.pdb
