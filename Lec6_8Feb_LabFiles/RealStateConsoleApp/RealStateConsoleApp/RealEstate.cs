@@ -26,14 +26,17 @@ namespace RealStateConsoleApp
             get;
             set;
         }
-        private double Test;
-        public double GetTest() { 
-            return Test;
+        public double MontlyEarnings {
+            get {
+                return(IncomeFromRent - MonthlyExpense);
+            }
         }
-        public void SetMonthlyExpenses(double test) {   
-            this.Test = test;
+        /* Earnings can also be */
+        public double GetEarnings() {
+            return(IncomeFromRent - MonthlyExpense);
         }
-
+         
+         
         public RealEstate(string address, int yearBuilt, double purchasePrice) {
             this.Address = address;
             this.YearBuilt =  yearBuilt;
@@ -43,8 +46,9 @@ namespace RealStateConsoleApp
             string outputStr = "Year: " + YearBuilt + "\n" +
                                "Address: " + Address + "\n" +
                                "Purchase Price: " + PurchasePrice.ToString("C") + "\n" +
-                               "IncomeFromRent" + IncomeFromRent.ToString("C") +"\n" +
-                               "MontlyExpenses" + MonthlyExpense.ToString("C") + "\n";
+                               "IncomeFromRent: " + IncomeFromRent.ToString("C") +"\n" +
+                               "MontlyExpenses: " + MonthlyExpense.ToString("C") + "\n" +
+                               "MonthlyEarnings: " + MontlyEarnings.ToString("C") + "\n";
             return outputStr;
         }
 
