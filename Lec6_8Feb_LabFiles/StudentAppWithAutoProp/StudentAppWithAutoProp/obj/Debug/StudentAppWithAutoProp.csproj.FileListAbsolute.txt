@@ -1,0 +1,16 @@
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Lec\Lec5\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe.config
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\bin\Debug\StudentAppWithAutoProp.pdb
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.AssemblyReference.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.csproj.CoreCompileInputs.cache
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.exe
+C:\Users\kandhadaip\Dropbox\Priya\DC\Fall2022\T_1175_1\Demos\Lec5_4Oct_DemosUpdatedFromClass\StudentAppWithAutoProp\StudentAppWithAutoProp\obj\Debug\StudentAppWithAutoProp.pdb
