@@ -1,0 +1,8 @@
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\bin\Debug\ThiagoGS_Assign1.exe.config
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\bin\Debug\ThiagoGS_Assign1.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\bin\Debug\ThiagoGS_Assign1.pdb
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\obj\Debug\ThiagoGS_Assign1.csproj.AssemblyReference.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\obj\Debug\ThiagoGS_Assign1.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\obj\Debug\ThiagoGS_Assign1.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\obj\Debug\ThiagoGS_Assign1.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\ThiagoG_Assign1\ThiagoGS_Assign1\ThiagoGS_Assign1\obj\Debug\ThiagoGS_Assign1.pdb
