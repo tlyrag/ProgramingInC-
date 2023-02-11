@@ -1,0 +1,8 @@
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\bin\Debug\RealStateConsoleApp.exe.config
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\bin\Debug\RealStateConsoleApp.exe
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\bin\Debug\RealStateConsoleApp.pdb
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\obj\Debug\RealStateConsoleApp.csproj.AssemblyReference.cache
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\obj\Debug\RealStateConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\obj\Debug\RealStateConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\obj\Debug\RealStateConsoleApp.exe
+C:\Users\300370930\Desktop\New folder\Intro1775\Lec6_8Feb_LabFiles\RealStateConsoleApp\RealStateConsoleApp\obj\Debug\RealStateConsoleApp.pdb
