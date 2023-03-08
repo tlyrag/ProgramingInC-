@@ -54,10 +54,13 @@ namespace ArraysDemo
             LoadGrades(gradeArray);
            // Write(gradeArray); // simply display data type, cannot display the array directly
             DisplayArray(gradeArray);
+            double gradeAvg= GetAverage(gradeArray);
+
+            WriteLine($"Average is: {gradeAvg:f2}");
 
         }
 
-        static void DisplayArray(params string[] anyArray)
+        static void DisplayArray( string[] anyArray)
         {
             WriteLine("Inside Display Array method using array as parameter....");
             for (int i = 0; i < anyArray.Length; i++)
@@ -67,7 +70,7 @@ namespace ArraysDemo
             WriteLine();
         }
 
-        static void DisplayArray(params double[] anyArray)
+        static void DisplayArray(double[] anyArray)
         {
             WriteLine("Inside Display Array method using array as parameter....");
             foreach(double arg in anyArray)
@@ -94,9 +97,31 @@ namespace ArraysDemo
                 
             }
         }
+        static double GetAverage(double[] anyGrades) {
+            double avg = 0;
+            double sum = 0;
+
+            foreach(double grades in anyGrades)
+            {
+                sum += grades;
+            }
+            avg= sum / anyGrades.Length;
+            return avg;
+        }
+        static double[] getMinMax(double[] anyGrades)
+        {
+            double[] minMax = new double[2];
+                double min = anyGrades[0];
+            foreach(double grades in anyGrades)
+            {
+                
+            }
+            return minMax;
+            
+        }
 
 
 
 
-    }
+}
 }
