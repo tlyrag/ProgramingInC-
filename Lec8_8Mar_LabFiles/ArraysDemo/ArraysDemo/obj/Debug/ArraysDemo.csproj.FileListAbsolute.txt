@@ -1,0 +1,8 @@
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe.config
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.pdb
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.AssemblyReference.cache
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.exe
+C:\Users\300370930\Desktop\Intro1775\Lec8_8Mar_LabFiles\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.pdb
