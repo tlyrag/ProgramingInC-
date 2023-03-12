@@ -1,0 +1,8 @@
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\bin\Debug\TicketProblem.exe.config
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\bin\Debug\TicketProblem.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\bin\Debug\TicketProblem.pdb
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\obj\Debug\TicketProblem.csproj.AssemblyReference.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\obj\Debug\TicketProblem.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\obj\Debug\TicketProblem.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\obj\Debug\TicketProblem.exe
+D:\Douglas\Intro to Programing - CSIS 1175\Intro1775\Exercises\TicketProblem\TicketProblem\obj\Debug\TicketProblem.pdb
