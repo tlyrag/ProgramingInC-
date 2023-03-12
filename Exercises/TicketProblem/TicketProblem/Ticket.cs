@@ -18,22 +18,18 @@ namespace TicketProblem
         public string StudentID
         {
             get;
-            set;
         }
         public char StudentCategory
         {
             get;
-            set;
         }
         public int SpeedLimit
         {
             get;
-            set;
         }
         public int SpeedReported
         {
             get;
-            set;
         }
         public string CategoryName
         {
