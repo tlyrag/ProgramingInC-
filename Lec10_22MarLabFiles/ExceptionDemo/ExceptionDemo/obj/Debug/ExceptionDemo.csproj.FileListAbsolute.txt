@@ -1,0 +1,8 @@
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe.config
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.exe
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\bin\Debug\ExceptionDemo.pdb
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.AssemblyReference.cache
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.exe
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\ExceptionDemo\ExceptionDemo\obj\Debug\ExceptionDemo.pdb
