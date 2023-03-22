@@ -16,5 +16,10 @@ namespace UserInfoApp
         {
             InitializeComponent();
         }
+
+        private void AddUserBtn_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World! \n My name is Thiago");
+        }
     }
 }

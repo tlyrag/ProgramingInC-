@@ -1,0 +1,11 @@
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\bin\Debug\UserInfoApp.exe.config
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\bin\Debug\UserInfoApp.exe
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\bin\Debug\UserInfoApp.pdb
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.csproj.AssemblyReference.cache
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.Form1.resources
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.Properties.Resources.resources
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.csproj.GenerateResource.cache
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.exe
+C:\Users\300370930\Desktop\Intro1775\Lec10_22MarLabFiles\UserInfoApp\UserInfoApp\obj\Debug\UserInfoApp.pdb
