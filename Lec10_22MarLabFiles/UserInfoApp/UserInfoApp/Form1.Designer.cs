@@ -52,6 +52,7 @@
             this.UserNameTextbox.Name = "UserNameTextbox";
             this.UserNameTextbox.Size = new System.Drawing.Size(100, 20);
             this.UserNameTextbox.TabIndex = 1;
+            this.UserNameTextbox.TextChanged += new System.EventHandler(this.UserNameTextbox_TextChanged);
             // 
             // UserIdLabel
             // 
