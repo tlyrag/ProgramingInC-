@@ -121,6 +121,7 @@
             this.SortUsersByAgeBtn.TabIndex = 30;
             this.SortUsersByAgeBtn.Text = "Sort Users By Age";
             this.SortUsersByAgeBtn.UseVisualStyleBackColor = true;
+            this.SortUsersByAgeBtn.Click += new System.EventHandler(this.SortUsersByAgeBtn_Click);
             // 
             // DeleteSelUserBtn
             // 
@@ -153,6 +154,7 @@
             this.WriteToFileBtn.TabIndex = 27;
             this.WriteToFileBtn.Text = "Write Users To File";
             this.WriteToFileBtn.UseVisualStyleBackColor = true;
+            this.WriteToFileBtn.Click += new System.EventHandler(this.WriteToFileBtn_Click);
             // 
             // Add10ToEachUserBtn
             // 

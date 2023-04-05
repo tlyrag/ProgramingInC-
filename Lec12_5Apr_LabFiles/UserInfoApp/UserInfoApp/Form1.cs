@@ -226,7 +226,6 @@ namespace UserInfoApp
         private void ReadFromFileBtn_Click(object sender, EventArgs e)
         {
             UserList.Clear();
-            OutputListBox.Items.Clear();
             try 
             {
                 using (StreamReader reader = new StreamReader("userinfo.csv"))
@@ -252,6 +251,40 @@ namespace UserInfoApp
             {
                 MessageBox.Show($"Error:{err}");
             }
+        }
+
+        private void WriteToFileBtn_Click(object sender, EventArgs e)
+        {
+            try 
+            {
+                using (StreamWriter writer = new StreamWriter("useroutput.txt"))
+                {
+                    writer.WriteLine("UserName,UserId,UserCategory");
+                    foreach(UserInfo user in UserList)
+                    {
+                        string eachLine = $"{user.UserName},{user.UserId},{user.UserAge:F1},{user.UserCategory}";
+                        writer.WriteLine(eachLine);
+                    }
+                }
+                StatusLabel.Text = $"Written {UserList.Count} users to output file";
+                UserList.Clear();
+                OutputListBox.Items.Clear();
+            } catch(Exception err)
+            {
+                MessageBox.Show($"Error {err}");
+            }
+        }
+
+        private void SortUsersByAgeBtn_Click(object sender, EventArgs e)
+        {
+            List<UserInfo> sortedList = UserList.OrderBy(user => user.UserId).ToList();
+            sortedList = UserList.OrderBy(user => user.UserAge).ThenByDescending(user => user.UserName).ToList();
+            UserList = sortedList;
+            LoadAllUsersToListBox();
+            //LINQ - Language Integrated Query
+            sortedList = (from user in UserList orderby user.UserName where user.UserAge > 50 select user).ToList();
+            UserList = sortedList;
+            LoadAllUsersToListBox();
         }
     }
 }
