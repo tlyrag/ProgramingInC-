@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{60E0E833-9740-4BC8-82A7-5A0C0D9016BE}</ProjectGuid>
+    <ProjectGuid>{17014623-F895-42F1-91E8-336135523594}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>RestaurantOrder</RootNamespace>
-    <AssemblyName>RestaurantOrder</AssemblyName>
+    <RootNamespace>UserInfoApp</RootNamespace>
+    <AssemblyName>UserInfoApp</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

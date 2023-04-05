@@ -1,0 +1,11 @@
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe.config
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.exe
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\bin\Debug\RandomNumberGenerator.pdb
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.AssemblyReference.cache
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Form1.resources
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.Properties.Resources.resources
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.GenerateResource.cache
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.exe
+D:\Douglas\Intro1775\Exercises\RandomNumberGenerator\RandomNumberGenerator\obj\Debug\RandomNumberGenerator.pdb

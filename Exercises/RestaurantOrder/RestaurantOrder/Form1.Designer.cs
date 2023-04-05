@@ -123,7 +123,7 @@ namespace RestaurantOrder
             this.PartySizeLabel.Name = "PartySizeLabel";
             this.PartySizeLabel.Size = new System.Drawing.Size(128, 18);
             this.PartySizeLabel.TabIndex = 8;
-            this.PartySizeLabel.Text = "Table Number";
+            this.PartySizeLabel.Text = "PartySize";
             // 
             // PartySizeTextBox
             // 
