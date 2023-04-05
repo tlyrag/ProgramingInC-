@@ -226,6 +226,32 @@ namespace UserInfoApp
         private void ReadFromFileBtn_Click(object sender, EventArgs e)
         {
             UserList.Clear();
+            OutputListBox.Items.Clear();
+            try 
+            {
+                using (StreamReader reader = new StreamReader("userinfo.csv"))
+                {
+                    if(!reader.EndOfStream)
+                    {
+                        string headerLine = reader.ReadLine();
+                    }
+                    while (!reader.EndOfStream)
+                    {
+                        string eachLine = reader.ReadLine();
+                        string[] fields = eachLine.Split(',');
+                        string userName = fields[1];
+                        int.TryParse(fields[0], out int userId);
+                        double.TryParse(fields[2], out double userAge);
+
+                        UserInfo newUser = new UserInfo(userName, userId, userAge);
+                        UserList.Add(newUser);
+                    }
+                    LoadAllUsersToListBox();
+                }
+            } catch(Exception err)
+            {
+                MessageBox.Show($"Error:{err}");
+            }
         }
     }
 }
