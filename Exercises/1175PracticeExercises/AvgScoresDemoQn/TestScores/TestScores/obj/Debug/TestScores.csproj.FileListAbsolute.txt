@@ -1,0 +1,11 @@
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\bin\Debug\TestScores.exe.config
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\bin\Debug\TestScores.exe
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\bin\Debug\TestScores.pdb
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.csproj.AssemblyReference.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.Form1.resources
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.Properties.Resources.resources
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.csproj.GenerateResource.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.exe
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\AvgScoresDemoQn\TestScores\TestScores\obj\Debug\TestScores.pdb
