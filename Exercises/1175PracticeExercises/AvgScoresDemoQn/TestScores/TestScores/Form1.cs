@@ -20,6 +20,8 @@ namespace TestScores
             
         }
         private List<double> scores = new List<double>();
+        private List<double> approved = new List<double>();
+        private List<double> failed = new List<double>();
         private void ReadBtn_Click(object sender, EventArgs e)
         {
             readFile();
@@ -146,5 +148,25 @@ namespace TestScores
             updateStatusLabel("NewScores.txt File Saved");
         }
         private void updateStatusLabel(string Message) { StatusLabel.Text = Message; }
+
+        private void CheckStatusBtn_Click(object sender, EventArgs e)
+        {
+            approved = (from score in scores orderby score where score >70 select score).ToList();
+            failed = (from score in scores orderby score where score < 70 select score).ToList();
+
+            Form2 form2 = new Form2();
+            form2.ApprovedListBox.Items.Add("Scores");
+            form2.FailedListBox.Items.Add("Scores");
+
+            foreach (double score in approved)
+            {
+               form2.ApprovedListBox.Items.Add(score);
+            }
+            foreach (double score in failed)
+            {
+                form2.FailedListBox.Items.Add(score);
+            }
+            form2.ShowDialog();
+        }
     }   
 }

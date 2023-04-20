@@ -1,0 +1,11 @@
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\bin\Debug\ManateeDemo.exe.config
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\bin\Debug\ManateeDemo.exe
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\bin\Debug\ManateeDemo.pdb
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.csproj.AssemblyReference.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.Form1.resources
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.Properties.Resources.resources
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.csproj.GenerateResource.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.exe
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\ManateeDemoQn\ManateeDemo\ManateeDemo\obj\Debug\ManateeDemo.pdb

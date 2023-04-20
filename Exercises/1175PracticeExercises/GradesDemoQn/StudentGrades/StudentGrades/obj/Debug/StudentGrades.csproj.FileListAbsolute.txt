@@ -1,0 +1,11 @@
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe.config
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\bin\Debug\StudentGrades.exe
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\bin\Debug\StudentGrades.pdb
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.AssemblyReference.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.SuggestedBindingRedirects.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.Form1.resources
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.Properties.Resources.resources
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.GenerateResource.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.csproj.CoreCompileInputs.cache
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.exe
+D:\Douglas\Intro1775\Exercises\1175PracticeExercises\GradesDemoQn\StudentGrades\StudentGrades\obj\Debug\StudentGrades.pdb

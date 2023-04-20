@@ -115,13 +115,12 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.ListBox ApprovedListBox;
         private System.Windows.Forms.Label ApprovedLabel;
         private System.Windows.Forms.Button SaveApprovedBtn;
         private System.Windows.Forms.Label FailedLabel;
-        private System.Windows.Forms.ListBox FailedListBox;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Button SaveFailedBtn;
+        internal System.Windows.Forms.ListBox FailedListBox;
+        internal System.Windows.Forms.ListBox ApprovedListBox;
     }
 }

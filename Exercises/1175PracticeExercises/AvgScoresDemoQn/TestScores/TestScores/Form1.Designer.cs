@@ -38,12 +38,13 @@
             this.MinScoreValue = new System.Windows.Forms.Label();
             this.MaxScoreValue = new System.Windows.Forms.Label();
             this.ReadBtn = new System.Windows.Forms.Button();
+            this.UpdateTextBox = new System.Windows.Forms.TextBox();
+            this.AddTextBox = new System.Windows.Forms.TextBox();
+            this.CheckStatusBtn = new System.Windows.Forms.Button();
             this.UpdateBtn = new System.Windows.Forms.Button();
             this.DeleteBtn = new System.Windows.Forms.Button();
             this.SaveBtn = new System.Windows.Forms.Button();
-            this.UpdateTextBox = new System.Windows.Forms.TextBox();
             this.AddBtn = new System.Windows.Forms.Button();
-            this.AddTextBox = new System.Windows.Forms.TextBox();
             this.PerformCompBtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
@@ -138,6 +139,30 @@
             this.ReadBtn.UseVisualStyleBackColor = true;
             this.ReadBtn.Click += new System.EventHandler(this.ReadBtn_Click);
             // 
+            // UpdateTextBox
+            // 
+            this.UpdateTextBox.Location = new System.Drawing.Point(95, 99);
+            this.UpdateTextBox.Name = "UpdateTextBox";
+            this.UpdateTextBox.Size = new System.Drawing.Size(78, 20);
+            this.UpdateTextBox.TabIndex = 10;
+            // 
+            // AddTextBox
+            // 
+            this.AddTextBox.Location = new System.Drawing.Point(95, 67);
+            this.AddTextBox.Name = "AddTextBox";
+            this.AddTextBox.Size = new System.Drawing.Size(78, 20);
+            this.AddTextBox.TabIndex = 12;
+            // 
+            // CheckStatusBtn
+            // 
+            this.CheckStatusBtn.Location = new System.Drawing.Point(13, 325);
+            this.CheckStatusBtn.Name = "CheckStatusBtn";
+            this.CheckStatusBtn.Size = new System.Drawing.Size(91, 78);
+            this.CheckStatusBtn.TabIndex = 14;
+            this.CheckStatusBtn.Text = "Check Class Status";
+            this.CheckStatusBtn.UseVisualStyleBackColor = true;
+            this.CheckStatusBtn.Click += new System.EventHandler(this.CheckStatusBtn_Click);
+            // 
             // UpdateBtn
             // 
             this.UpdateBtn.Location = new System.Drawing.Point(13, 97);
@@ -168,13 +193,6 @@
             this.SaveBtn.UseVisualStyleBackColor = true;
             this.SaveBtn.Click += new System.EventHandler(this.SaveBtn_Click);
             // 
-            // UpdateTextBox
-            // 
-            this.UpdateTextBox.Location = new System.Drawing.Point(95, 99);
-            this.UpdateTextBox.Name = "UpdateTextBox";
-            this.UpdateTextBox.Size = new System.Drawing.Size(78, 20);
-            this.UpdateTextBox.TabIndex = 10;
-            // 
             // AddBtn
             // 
             this.AddBtn.Location = new System.Drawing.Point(13, 65);
@@ -184,13 +202,6 @@
             this.AddBtn.Text = "Add";
             this.AddBtn.UseVisualStyleBackColor = true;
             this.AddBtn.Click += new System.EventHandler(this.AddBtn_Click);
-            // 
-            // AddTextBox
-            // 
-            this.AddTextBox.Location = new System.Drawing.Point(95, 67);
-            this.AddTextBox.Name = "AddTextBox";
-            this.AddTextBox.Size = new System.Drawing.Size(78, 20);
-            this.AddTextBox.TabIndex = 12;
             // 
             // PerformCompBtn
             // 
@@ -207,6 +218,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.CheckStatusBtn);
             this.Controls.Add(this.PerformCompBtn);
             this.Controls.Add(this.AddTextBox);
             this.Controls.Add(this.AddBtn);
@@ -243,12 +255,13 @@
         private System.Windows.Forms.Label MinScoreValue;
         private System.Windows.Forms.Label MaxScoreValue;
         private System.Windows.Forms.Button ReadBtn;
+        private System.Windows.Forms.TextBox UpdateTextBox;
+        private System.Windows.Forms.TextBox AddTextBox;
+        private System.Windows.Forms.Button CheckStatusBtn;
         private System.Windows.Forms.Button UpdateBtn;
         private System.Windows.Forms.Button DeleteBtn;
         private System.Windows.Forms.Button SaveBtn;
-        private System.Windows.Forms.TextBox UpdateTextBox;
         private System.Windows.Forms.Button AddBtn;
-        private System.Windows.Forms.TextBox AddTextBox;
         private System.Windows.Forms.Button PerformCompBtn;
     }
 }
